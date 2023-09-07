@@ -10,7 +10,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_Derelict_Authority_Bonus_Name_0X1F2BD</Label>
-        <String><![CDATA[Prennez l'artefact.]]></String>
+        <String><![CDATA[Prenez l'artefact.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_Derelict_Authority_Bonus_Dec_0X1F2BD</Label>
@@ -162,7 +162,7 @@
     </StringTable>
     <StringTable>
         <Label>Quest_WeaponJammer_0x6A4C_Choice1_Dec</Label>
-        <String><![CDATA[Celui-ci sera disponible dans notre chambre forte pour être ajouté à un navire.]]></String>
+        <String><![CDATA[Celui-ci sera disponible dans notre chambre forte pour être ajouté à un vaisseau.]]></String>
     </StringTable>
     <StringTable>
         <Label>Quest_WeaponJammer_0x6A4C_Choice2_Name</Label>
