@@ -30,7 +30,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_RefugeesEquality_String1</Label>
-        <String><![CDATA[Tu as ramené nos réfugiés]]></String>
+        <String><![CDATA[Vous avez ramené nos réfugiés]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_Refugees_Harmony_Bonus_Name</Label>
@@ -42,7 +42,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_RefugeesHarmony_String1</Label>
-        <String><![CDATA[Tu ne voulais pas rendre nos réfugiés]]></String>
+        <String><![CDATA[Vous ne nous rendriez pas nos réfugiéss]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_Exile_Name</Label>
@@ -54,7 +54,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_Exile_Liberty_Bonus_Name</Label>
-        <String><![CDATA[On peut s'assurer que ça se produise.]]></String>
+        <String><![CDATA[Nous pouvons s'assurer que ça se produise.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_Exile_Liberty_Bonus_Dec</Label>
@@ -62,11 +62,11 @@
     </StringTable>
     <StringTable>
         <Label>Event_ExileLiberty_String1</Label>
-        <String><![CDATA[Tu t'es occupé de Mors Ven]]></String>
+        <String><![CDATA[Vous vous êtes occupé de Mors Ven]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_Exile_Equality_Bonus_Name</Label>
-        <String><![CDATA[On peut provoquer l'accident, moyennant finances.]]></String>
+        <String><![CDATA[Nous pouvons provoquer l'accident, moyennant finances.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_Exile_Authority_Bonus_Name</Label>
@@ -114,7 +114,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_BorderworldCrime_Authority_Bonus_Name</Label>
-        <String><![CDATA[On a des soucis plus urgents.]]></String>
+        <String><![CDATA[Nous avons des soucis plus urgents.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_BorderworldCrime_Authority_Bonus_Dec</Label>
@@ -122,7 +122,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_BorderworldCrimeAuthority_String1</Label>
-        <String><![CDATA[T'as pas rejoint la lutte contre les pirates]]></String>
+        <String><![CDATA[Vous n'avez pas rejoint la lutte contre les pirates]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_CultureClash_Name</Label>
@@ -142,7 +142,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_CultureClashLiberty_String1</Label>
-        <String><![CDATA[Tu as honoré notre demande.]]></String>
+        <String><![CDATA[Vous avez honoré notre demande.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_CultureClash_Equality_Bonus_Name</Label>
@@ -158,7 +158,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_CultureClash_Authority_Bonus_Name</Label>
-        <String><![CDATA[On prévoit de donner à vos citoyens plus de ce qu'ils veulent.]]></String>
+        <String><![CDATA[Nous prévoyons de donner à vos citoyens plus de ce qu'ils veulent.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_CultureClash_Authority_Bonus_Dec</Label>
@@ -210,7 +210,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_Ysengard_Equality_Bonus_Name</Label>
-        <String><![CDATA[Reconstruis son vaisseau s'il accepte de te rejoindre.]]></String>
+        <String><![CDATA[Reconstruisez son vaisseau s'il accepte de vous rejoindre.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_Ysengard_Equality_Bonus_Dec</Label>
@@ -218,7 +218,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_Ysengard_Authority_Bonus_Name</Label>
-        <String><![CDATA[On aurait bien besoin de quelqu'un comme lui dans notre gouvernement.]]></String>
+        <String><![CDATA[Nous aurions bien besoin de quelqu'un comme lui dans notre gouvernement.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_Ysengard_Authority_Bonus_Dec</Label>
@@ -282,7 +282,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_Interview_Dec</Label>
-        <String><![CDATA[Au cours d'une interview, on vous demande ce dont vous pensez que vos citoyens ont besoin pour réussir à une époque où nous explorons la galaxie et rencontrons des espèces extraterrestres.[BR][BR]Qu'aimeriez-vous promouvoir ?]]></String>
+        <String><![CDATA[Au cours d'une interview, nous vous demandons ce dont vous pensez que vos citoyens ont besoin pour réussir à une époque où nous explorons la galaxie et rencontrons des espèces extraterrestres.[BR][BR]Qu'aimeriez-vous promouvoir ?]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_Interview_Liberty_Bonus_Name</Label>
@@ -350,7 +350,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_MysteriousOutpost_Dec</Label>
-        <String><![CDATA[On a découvert une base secrète occupée par un seul extraterrestre. Il prétend qu'il a été envoyé pour nous observer et qu'il a des intentions pacifiques.[BR][BR]Quels sont vos ordres ?]]></String>
+        <String><![CDATA[Nous avons découvert une base secrète occupée par un seul extraterrestre. Il prétend qu'il a été envoyé pour nous observer et qu'il a des intentions pacifiques.[BR][BR]Quels sont vos ordres ?]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_MysteriousOutpost_Liberty_Bonus_Name</Label>
@@ -406,7 +406,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_Famine_Equality_Bonus_Name</Label>
-        <String><![CDATA[Distribuez les marchandises à nos leaders. On aura besoin de leur force pour survivre.]]></String>
+        <String><![CDATA[Distribuez les marchandises à nos leaders. Nous aurons besoin de leur force pour survivre.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_Famine_Authority_Bonus_Name</Label>
@@ -466,7 +466,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_NewGeneration_Authority_Bonus_Name</Label>
-        <String><![CDATA[Laissez-les poursuivre leurs rêves, on a besoin de plus d'artistes.]]></String>
+        <String><![CDATA[Laissez-les poursuivre leurs rêves, nous avons besoin de plus d'artistes.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_NewGeneration_Authority_Bonus_Dec</Label>
@@ -558,7 +558,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_Biographer_Equality_Bonus_Name</Label>
-        <String><![CDATA[On n'a vu qu'une infime partie de ce que l'univers a à offrir. Tellement plus nous attend.]]></String>
+        <String><![CDATA[Nous n'avons vu qu'une infime partie de ce que l'univers a à offrir. Tellement plus nous attend.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_Biographer_Authority_Bonus_Name</Label>
@@ -570,11 +570,11 @@
     </StringTable>
     <StringTable>
         <Label>Event_Museum_Dec</Label>
-        <String><![CDATA[Un musée ouvre une exposition sur ta vie. Ils aimeraient savoir quelle est, selon toi, ta plus grande réussite.]]></String>
+        <String><![CDATA[Un musée ouvre une exposition sur votre vie. Ils aimeraient savoir quelle est, selon vous, votre plus grande réussite.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_Museum_Liberty_Bonus_Name</Label>
-        <String><![CDATA[J'ai rien fait tout seul. Ensemble, on a tout fait.]]></String>
+        <String><![CDATA[J'ai rien fait tout seul. Ensemble, nous avons tout fait.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_Museum_Equality_Bonus_Name</Label>
@@ -618,7 +618,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_Disease_Equality_Bonus_Name</Label>
-        <String><![CDATA[Priorise les soins de santé et assure-toi que les infectés reçoivent un traitement.]]></String>
+        <String><![CDATA[Priorise les soins de santé et assurez-vous que les infectés reçoivent un traitement.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_Disease_Authority_Bonus_Name</Label>
@@ -666,7 +666,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_RequestForSupportAuthority_String1</Label>
-        <String><![CDATA[Tu nous soutiendrais pas, hein ?]]></String>
+        <String><![CDATA[Vous nous soutiendriez pas, hein ?]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_TheSabre_Name</Label>
@@ -678,7 +678,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_TheSabre_Liberty_Bonus_Name</Label>
-        <String><![CDATA[On ne cédera pas aux menaces.]]></String>
+        <String><![CDATA[Nous ne céderons pas aux menaces.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_TheSabre_Liberty_Bonus_Dec</Label>
@@ -746,11 +746,11 @@
     </StringTable>
     <StringTable>
         <Label>Event_ElectionWarning_Liberty_Bonus_Name</Label>
-        <String><![CDATA[On laissera les résultats parler d'eux-mêmes.]]></String>
+        <String><![CDATA[Nous laisserons les résultats parler d'eux-mêmes.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_ElectionWarning_Equality_Bonus_Name</Label>
-        <String><![CDATA[On devrait "ajuster" les résultats.]]></String>
+        <String><![CDATA[Nous devrions "ajuster" les résultats.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_Pandemonium_Name</Label>
@@ -974,7 +974,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_GovernorScandalLiberty_String1</Label>
-        <String><![CDATA[T'as été à mes côtés]]></String>
+        <String><![CDATA[Vous avez été à mes côtés]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_GovernorScandal_Equality_Bonus_Name</Label>
@@ -986,7 +986,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_GovernorScandalEquality_String1</Label>
-        <String><![CDATA[Tu m'as condamné]]></String>
+        <String><![CDATA[Vous m'avez condamné]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_GovernorRequestInfluence_Name</Label>
@@ -1006,7 +1006,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_GovernorRequestInfluenceLiberty_String1</Label>
-        <String><![CDATA[Tu m'as donné du soutien culturel]]></String>
+        <String><![CDATA[Vous m'avez donné du soutien culturel]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_GovernorRequestInfluence_Equality_Bonus_Name</Label>
@@ -1030,7 +1030,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_GovernorRequestCrime_Dec</Label>
-        <String><![CDATA[Le gouverneur de {PLANETNAME}a fait un piètre travail pour mettre en place un système de justice sur leur planète.[BR][BR]Au lieu de régler ça localement, ils demandent à nos législateurs de la capitale de s'occuper du problème.[BR][BR]C'est décevant qu'on doive prendre de telles mesures à cause de l'incompétence d'un gouverneur, mais nous n'avons guère le choix si nous ne voulons pas que le [HS=HS_Crime]Criminalité[/HS] se développe sur {PLANETNAME}.]]></String>
+        <String><![CDATA[Le gouverneur de {PLANETNAME}a fait un piètre travail pour mettre en place un système de justice sur leur planète.[BR][BR]Au lieu de régler ça localement, ils demandent à nos législateurs de la capitale de s'occuper du problème.[BR][BR]Il est décevant que de telles mesures soient nécessaires pour faire face à l'incompétence d'un gouverneur mais nous n'avons guère le choix si nous ne voulons pas que le [HS=HS_Crime]Criminalité[/HS] se développe sur {PLANETNAME}.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_GovernorRequestCrime_Liberty_Bonus_Name</Label>
@@ -1042,7 +1042,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_GovernorRequestCrimeLiberty_String1</Label>
-        <String><![CDATA[T'as aidé à réduire la criminalité]]></String>
+        <String><![CDATA[Vous avez aidé à réduire la criminalité]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_GovernorRequestCrime_Equality_Bonus_Name</Label>
@@ -1054,7 +1054,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_GovernorRequestCrimeEquality_String1</Label>
-        <String><![CDATA[T'as pas aidé à réduire la criminalité]]></String>
+        <String><![CDATA[Vous n'avez pas aidé à réduire la criminalité]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_GovernorRequestCrime_Harmony_Bonus_Name</Label>
@@ -1066,7 +1066,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_GovernorRequestCrimeHarmony_String1</Label>
-        <String><![CDATA[Tu m'as enquêté]]></String>
+        <String><![CDATA[Vous m'avez enquêté]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_GovernorRequestPollution_Name</Label>
@@ -1086,7 +1086,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_GovernorRequestPollutionLiberty_String1</Label>
-        <String><![CDATA[T'as aidé à réduire la pollution]]></String>
+        <String><![CDATA[Vous avez aidé à réduire la pollution]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_GovernorRequestPollution_Equality_Bonus_Name</Label>
@@ -1098,7 +1098,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_GovernorRequestPollutionEquality_String1</Label>
-        <String><![CDATA[T'as aidé à réduire la pollution]]></String>
+        <String><![CDATA[Vous avez aidé à réduire la pollution]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_GovernorRequestPollution_Harmony_Bonus_Name</Label>
@@ -1110,7 +1110,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_GovernorRequestPollutionHarmony_String1</Label>
-        <String><![CDATA[T'as pas aidé à réduire la pollution]]></String>
+        <String><![CDATA[Vous avez pas aidé à réduire la pollution]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_TheList_Name</Label>
@@ -1118,7 +1118,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_TheList_Dec</Label>
-        <String><![CDATA[Ceux qui ont fait du tort {GOVERNORNAME} rencontrent souvent une malchance significative, certains disparaissant complètement. Au début, ce n'étaient que des rumeurs, mais ces rumeurs ont créé la peur.[BR][BR]Lorsqu'on l'interroge à ce sujet, {GOVERNORNAME} nie discrètement toute implication, se contentant de dire que les mauvaises choses arrivent aux mauvaises personnes.[BR][BR]La seule preuve est le carnet de notes de {GOVERNORNAME}, où beaucoup de ceux qui ont rencontré le malheur sont répertoriés et rayés.]]></String>
+        <String><![CDATA[Ceux qui ont fait du tort {GOVERNORNAME} rencontrent souvent une malchance significative, certains disparaissant complètement. Au début, ce n'étaient que des rumeurs, mais ces rumeurs ont créé la peur.[BR][BR]Lorsque nous l'interrogeons à ce sujet, {GOVERNORNAME} nie discrètement toute implication, se contentant de dire que les mauvaises choses arrivent aux mauvaises personnes.[BR][BR]La seule preuve est le carnet de notes de {GOVERNORNAME}, où beaucoup de ceux qui ont rencontré le malheur sont répertoriés et rayés.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_TheList_Liberty_Bonus_Name</Label>
@@ -1130,7 +1130,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_TheListLiberty_String1</Label>
-        <String><![CDATA[T'es pas sur ma liste.]]></String>
+        <String><![CDATA[Vous n'êtes pas sur ma liste.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_TheList_Equality_Bonus_Name</Label>
@@ -1142,7 +1142,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_TheListEquality_String1</Label>
-        <String><![CDATA[T'es sur ma liste]]></String>
+        <String><![CDATA[Vous êtes sur ma liste]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_TheList_End_Name</Label>
@@ -1162,7 +1162,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_MysteriousBrooch_Dec</Label>
-        <String><![CDATA[Une relique ayant une profonde signification symbolique pour notre peuple a disparu depuis des décennies.[BR][BR]On a récemment découvert qu'elle était détenue par l'un de vos dirigeants, {GOVERNORNAME}.[BR][BR]La manière dont ils l'ont obtenue n'a pas d'importance. Nous leur avons déjà demandé de la rendre et proposé de l'acheter.[BR][BR]Ils ont refusé. Nous comptons sur vous pour faire ce qui est juste et nous la remettre.]]></String>
+        <String><![CDATA[Une relique ayant une profonde signification symbolique pour notre peuple a disparu depuis des décennies.[BR][BR]Nous avons récemment découvert qu'elle était détenue par l'un de vos dirigeants, {GOVERNORNAME}.[BR][BR]La manière dont ils l'ont obtenue n'a pas d'importance. Nous leur avons déjà demandé de la rendre et proposé de l'acheter.[BR][BR]Ils ont refusé. Nous comptons sur vous pour faire ce qui est juste et nous la remettre.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_MysteriousBrooch_Liberty_Bonus_Name</Label>
@@ -1174,15 +1174,15 @@
     </StringTable>
     <StringTable>
         <Label>Event_MysteriousBroochLiberty_String1</Label>
-        <String><![CDATA[Tu as défendu ma broche]]></String>
+        <String><![CDATA[Vous avez défendu ma broche]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_MysteriousBroochLiberty_String2</Label>
-        <String><![CDATA[Tu as refusé de rendre notre relique]]></String>
+        <String><![CDATA[Vous avez refusé de rendre notre relique]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_MysteriousBrooch_Equality_Bonus_Name</Label>
-        <String><![CDATA[On s'assurera que la broche te sera remise.]]></String>
+        <String><![CDATA[Nous nous assurerons que la broche vous serez remise.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_MysteriousBrooch_Equality_Bonus_Dec</Label>
@@ -1190,11 +1190,11 @@
     </StringTable>
     <StringTable>
         <Label>Event_MysteriousBroochEquality_String1</Label>
-        <String><![CDATA[T'as filé ma broche]]></String>
+        <String><![CDATA[Vous avez filé ma broche]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_MysteriousBroochEquality_String2</Label>
-        <String><![CDATA[T'as ramené notre relique]]></String>
+        <String><![CDATA[Vous avez ramené notre relique]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_GamblingProblems_Name</Label>
@@ -1202,11 +1202,11 @@
     </StringTable>
     <StringTable>
         <Label>Event_GamblingProblems_Dec</Label>
-        <String><![CDATA[{GOVERNORNAME} a contracté une dette importante pour le {PLAYERFACTION:1}. Ton nom a été utilisé comme garantie, et c'est sûrement une somme insignifiante pour toi.[BR][BR]J'espère que tu paieras cette dette et garderas {GOVERNORNAME} hors de danger.]]></String>
+        <String><![CDATA[{GOVERNORNAME} a contracté une dette importante pour le {PLAYERFACTION:1}. Votre nom a été utilisé comme garantie, et c'est sûrement une somme insignifiante pour vous.[BR][BR]J'espère que vous paierez cette dette et garderas {GOVERNORNAME} hors de danger.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_GamblingProblems_Liberty_Bonus_Name</Label>
-        <String><![CDATA[On ne peut pas se le permettre. Fais ce que tu dois pour {GOVERNORNAME}.]]></String>
+        <String><![CDATA[Nous ne pouvons pas se le permettre. Faites ce que vous devez pour {GOVERNORNAME}.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_GamblingProblems_Liberty_Bonus_Dec</Label>
@@ -1214,11 +1214,11 @@
     </StringTable>
     <StringTable>
         <Label>Event_GamblingProblemsLiberty_String1</Label>
-        <String><![CDATA[T'aurais pas payé ma dette]]></String>
+        <String><![CDATA[Vous n'auriez pas payé ma dette]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_GamblingProblemsLiberty_String2</Label>
-        <String><![CDATA[T'as pas réglé tes dettes]]></String>
+        <String><![CDATA[Vous n'avez pas réglé vos dettes]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_GamblingProblems_Equality_Bonus_Name</Label>
@@ -1230,7 +1230,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_GamblingProblemsEquality_String1</Label>
-        <String><![CDATA[Tu m'as défendu]]></String>
+        <String><![CDATA[Vous m'avez défendu]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_GamblingProblemsEquality_String2</Label>
@@ -1246,11 +1246,11 @@
     </StringTable>
     <StringTable>
         <Label>Event_GamblingProblemsAuthority_String1</Label>
-        <String><![CDATA[T'as payé ma dette]]></String>
+        <String><![CDATA[Vous avez payé ma dette]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_GamblingProblemsAuthority_String2</Label>
-        <String><![CDATA[Tu as remboursé ta dette]]></String>
+        <String><![CDATA[Vous avez remboursé votre dette]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_ArrangedMarriage_Name</Label>
@@ -1270,7 +1270,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_ArrangedMarriageLiberty_String1</Label>
-        <String><![CDATA[T'as pas foutu ton nez dans ma vie]]></String>
+        <String><![CDATA[Vous ne vous êtes pas mélé de ma vie]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_ArrangedMarriage_Equality_Bonus_Name</Label>
@@ -1282,7 +1282,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_ArrangedMarriageEquality_String1</Label>
-        <String><![CDATA[Tu t'es mêlé de ma vie]]></String>
+        <String><![CDATA[Vous vous êtes mêlé de ma vie]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_ArrangedMarriage_Authority_Bonus_Name</Label>
@@ -1310,7 +1310,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_ArrangedMarriageSuccessLiberty_String1</Label>
-        <String><![CDATA[On est mariés]]></String>
+        <String><![CDATA[Nous sommes mariés]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_ArrangedMarriageFail_Name</Label>
@@ -1330,7 +1330,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_ArrangedMarriageFailLiberty_String1</Label>
-        <String><![CDATA[Tu m'as proposé]]></String>
+        <String><![CDATA[Vous m'avez proposé]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_Scars_Name</Label>
@@ -1338,7 +1338,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_Scars_Dec</Label>
-        <String><![CDATA[Des rumeurs circulent sur {PLANETNAME} à propos d'un étrange culte. De nombreux rapports font état de disparitions de personnes dans les hôpitaux, et les preuves semblent impliquer le gouverneur de la planète, {GOVERNORNAME}.[BR][BR]En interrogeant {GOVERNORNAME} , on découvre la vérité. Un appareil était utilisé pour soigner les malades, au prix de dommages infligés au corps de {GOVERNORNAME}. Des cicatrices douloureuses laissées par l'appareil entravent les mouvements et le contrôle.]]></String>
+        <String><![CDATA[Des rumeurs circulent sur {PLANETNAME} à propos d'un étrange culte. De nombreux rapports font état de disparitions de personnes dans les hôpitaux, et les preuves semblent impliquer le gouverneur de la planète, {GOVERNORNAME}.[BR][BR]En interrogeant {GOVERNORNAME} , nous découvrons la vérité. Un appareil était utilisé pour soigner les malades, au prix de dommages infligés au corps de {GOVERNORNAME}. Des cicatrices douloureuses laissées par l'appareil entravent les mouvements et le contrôle.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_Scars_Liberty_Bonus_Name</Label>
@@ -1350,15 +1350,15 @@
     </StringTable>
     <StringTable>
         <Label>Event_Scars_Authority_Bonus_Name</Label>
-        <String><![CDATA[Utilise l'appareil pour transférer les cicatrices de {GOVERNORNAME} à toi.]]></String>
+        <String><![CDATA[Utilise l'appareil pour transférer les cicatrices de {GOVERNORNAME} à vous.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_Scars_Authority_Bonus_Dec</Label>
-        <String><![CDATA[[ICON=LeaderStat_Loyalty_Icon] +25 Loyauté pour {GOVERNORNAME}[BR]{GOVERNORNAME} est soigné.[BR]Tu deviens Cica_trisé.]]></String>
+        <String><![CDATA[[ICON=LeaderStat_Loyalty_Icon] +25 Loyauté pour {GOVERNORNAME}[BR]{GOVERNORNAME} est soigné.[BR]Vous devenez Cica_trisé.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_ScarsAuthority_String1</Label>
-        <String><![CDATA[Tu m'as soigné]]></String>
+        <String><![CDATA[Vous m'avez soigné]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_Compassion_Name</Label>
@@ -1378,11 +1378,11 @@
     </StringTable>
     <StringTable>
         <Label>Event_CompassionLiberty_String1</Label>
-        <String><![CDATA[Tu as réalisé ma demande]]></String>
+        <String><![CDATA[Vous avez réalisé ma demande]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_Compassion_Equality_Bonus_Name</Label>
-        <String><![CDATA[On n'a pas le temps pour ces demandes futiles.]]></String>
+        <String><![CDATA[Nous n'avons pas le temps pour ces demandes futiles.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_Compassion_Equality_Bonus_Dec</Label>
@@ -1390,7 +1390,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_CompassionEquality_String1</Label>
-        <String><![CDATA[Tu as ignoré ma demande]]></String>
+        <String><![CDATA[Vous avez ignoré ma demande]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_Compassion2_Name</Label>
@@ -1410,11 +1410,11 @@
     </StringTable>
     <StringTable>
         <Label>Event_Compassion2Liberty_String1</Label>
-        <String><![CDATA[Tu as réalisé ma demande]]></String>
+        <String><![CDATA[Vous avez réalisé ma demande]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_Compassion2_Equality_Bonus_Name</Label>
-        <String><![CDATA[On n'a pas le temps pour ces demandes futiles.]]></String>
+        <String><![CDATA[Nous n'avons pas le temps pour ces demandes futiles.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_Compassion2_Equality_Bonus_Dec</Label>
@@ -1422,7 +1422,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_Compassion2Equality_String1</Label>
-        <String><![CDATA[Tu as ignoré ma demande]]></String>
+        <String><![CDATA[Vous avez ignoré ma demande]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_Compassion3_Name</Label>
@@ -1434,7 +1434,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_Compassion3_Liberty_Bonus_Name</Label>
-        <String><![CDATA[On nous juge selon la manière dont on traite les plus modestes de nos citoyens.]]></String>
+        <String><![CDATA[Nous sommes jugés sur la manière dont nous traitons les plus modestes de nos citoyens.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_RenegadeGovernor_Name</Label>
@@ -1462,7 +1462,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_LoyalGovernor_Liberty_Bonus_Name</Label>
-        <String><![CDATA[On va se servir de ça.]]></String>
+        <String><![CDATA[Nous en ferons usage.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_GovernorFundRaiser_Name</Label>
@@ -1474,7 +1474,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_GovernorFundRaiser_Liberty_Bonus_Name</Label>
-        <String><![CDATA[On va se servir de ça.]]></String>
+        <String><![CDATA[Nous en ferons usage.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_HateSpeech_Name</Label>
@@ -1482,11 +1482,11 @@
     </StringTable>
     <StringTable>
         <Label>Event_HateSpeech_Dec</Label>
-        <String><![CDATA[{GOVERNORNAME}, le gouverneur de {PLANETNAME} accuse faussement les {PLAYERFACTION:1} de tous les problèmes sur leur planète. Du crime aux maladies, leur discours commence à galvaniser la colère sur le monde d'une manière qui peut être bénéfique à court terme, mais dangereuse pour les relations diplomatiques.[BR][BR]On en est maintenant à un carrefour où les {PLAYERFACTION:1} s'attendent à ce que vous dénonciez les discours haineux, mais cela risque de retourner la colère contre nous.]]></String>
+        <String><![CDATA[{GOVERNORNAME}, le gouverneur de {PLANETNAME} accuse faussement les {PLAYERFACTION:1} de tous les problèmes sur leur planète. Du crime aux maladies, leur discours commence à galvaniser la colère sur le monde d'une manière qui peut être bénéfique à court terme, mais dangereuse pour les relations diplomatiques.[BR][BR]Nous sommes maintenant à un carrefour où les {PLAYERFACTION:1} s'attendent à ce que vous dénonciez les discours haineux, mais cela risque de retourner la colère contre nous.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_HateSpeech_Liberty_Bonus_Name</Label>
-        <String><![CDATA[Soutenez le Gouverneur. On peut profiter de cette occasion.]]></String>
+        <String><![CDATA[Soutenez le Gouverneur. Nous pouvons profiter de cette occasion.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_HateSpeech_Liberty_Bonus_Dec</Label>
@@ -1494,7 +1494,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_HateSpeechLiberty_String1</Label>
-        <String><![CDATA[Tu as soutenu ma cause]]></String>
+        <String><![CDATA[Vous avez soutenu ma cause]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_HateSpeechLiberty_String2</Label>
@@ -1510,7 +1510,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_HateSpeechEquality_String1</Label>
-        <String><![CDATA[Tu m'as dénoncé]]></String>
+        <String><![CDATA[Vous m'avez dénoncé]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_HateSpeechEquality_String2</Label>
@@ -1534,11 +1534,11 @@
     </StringTable>
     <StringTable>
         <Label>Event_CallForWarLiberty_String1</Label>
-        <String><![CDATA[Tu as soutenu ma cause]]></String>
+        <String><![CDATA[Vous avez soutenu ma cause]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_CallForWar_Equality_Bonus_Name</Label>
-        <String><![CDATA[Un séjour dans un donjon montrera au Gouverneur qu'on n'est pas des tendres.]]></String>
+        <String><![CDATA[Un séjour dans un donjon montrera au Gouverneur que nous sommes pas des tendres.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_CallForWar_Equality_Bonus_Dec</Label>
@@ -1546,7 +1546,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_CallForWarEquality_String1</Label>
-        <String><![CDATA[Tu m'as dénoncé]]></String>
+        <String><![CDATA[Vous m'avez dénoncé]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_CyberneticImplants_Name</Label>
@@ -1566,7 +1566,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_CyberneticImplantsLiberty_String1</Label>
-        <String><![CDATA[Tu as soutenu mon opération]]></String>
+        <String><![CDATA[Vous avez soutenu mon opération]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_CyberneticImplants_Equality_Bonus_Name</Label>
@@ -1578,7 +1578,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_CyberneticImplantsEquality_String1</Label>
-        <String><![CDATA[Tu as interdit mon opération]]></String>
+        <String><![CDATA[Vous avez interdit mon opération]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_Eureka_Name</Label>
@@ -1606,7 +1606,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_EurekaEquality_String1</Label>
-        <String><![CDATA[Tu as arrêté mes recherches]]></String>
+        <String><![CDATA[Vous avez arrêté mes recherches]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_Greed_Name</Label>
@@ -1626,7 +1626,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_GreedLiberty_String1</Label>
-        <String><![CDATA[Tu es généreux]]></String>
+        <String><![CDATA[Vous êtes généreux]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_Greed_Equality_Bonus_Name</Label>
@@ -1638,7 +1638,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_GreedEquality_String1</Label>
-        <String><![CDATA[T'as volé chez moi !]]></String>
+        <String><![CDATA[Vous avez volé chez moi !]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_Scandal_Name</Label>
@@ -1714,7 +1714,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_TheDinnerPartyEquality_String1</Label>
-        <String><![CDATA[Tu m'as dénoncé]]></String>
+        <String><![CDATA[Vous m'avez dénoncé]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_WarWeariness_Name</Label>
@@ -1738,7 +1738,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_WarWearinessEquality_String1</Label>
-        <String><![CDATA[Tu es un va-t-en-guerre]]></String>
+        <String><![CDATA[Vous êtes un belliciste]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_TheMissionaries_Name</Label>
@@ -1758,7 +1758,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_TheMissionariesLiberty_String1</Label>
-        <String><![CDATA[Tu as permis mon interrogatoire]]></String>
+        <String><![CDATA[Vous avez permis mon interrogatoire]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_TheMissionaries_Equality_Bonus_Name</Label>
@@ -1806,7 +1806,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_BreakAwayColony_LeaderDesc</Label>
-        <String><![CDATA[Le comte Kurzko, ambitieux et malveillant, cherche à te détruire personnellement. ]]></String>
+        <String><![CDATA[Le comte Kurzko, ambitieux et malveillant, cherche à vous détruire personnellement. ]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_Moths_SeasonOfWaking_Name</Label>
@@ -1822,7 +1822,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_Moths_SeasonOfDreaming_Dec</Label>
-        <String><![CDATA[Le cycle nocturne se poursuit alors que commence la saison des rêves. Pendant la saison du rêve, on respecte les lumières les plus faibles de la vie - de la lune au magma en passant par les ampoules électriques et les fusées éclairantes. La saison réservée est marquée par des expositions d'art, le début du calendrier scolaire et le développement personnel.[BR][BR][HS=HS_Research]La recherche[/HS] et l' [HS=HS_Influence]influence[/HS] sont renforcées pour chaque colonie pendant la Saison des rêves. Il est préférable de tirer parti de ce nouveau centre d'intérêt pour étendre les frontières, annexer des territoires et effectuer des recherches sur des technologies plus complexes.]]></String>
+        <String><![CDATA[Le cycle nocturne se poursuit alors que commence la saison des rêves. Pendant la saison du rêve, nous respectons les lumières les plus faibles de la vie - de la lune au magma en passant par les ampoules électriques et les fusées éclairantes. La saison réservée est marquée par des expositions d'art, le début du calendrier scolaire et le développement personnel.[BR][BR][HS=HS_Research]La recherche[/HS] et l' [HS=HS_Influence]influence[/HS] sont renforcées pour chaque colonie pendant la Saison des rêves. Il est préférable de tirer parti de ce nouveau centre d'intérêt pour étendre les frontières, annexer des territoires et effectuer des recherches sur des technologies plus complexes.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_Moths_SeasonOfWaking_Response_Name</Label>
@@ -1846,7 +1846,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_UnexpectedFlora_0x41A_Dec</Label>
-        <String><![CDATA[Les habitants de {PLANETNAME} ont découvert une faune locale qui, lorsqu'elle est utilisée, augmente fortement leur intelligence.[BR][BR]Cependant, elle crée également une forte dépendance et entraîne un comportement imprudent qui conduit à la criminalité.[BR][BR]Que penses-tu que nous devrions faire à ce sujet ?]]></String>
+        <String><![CDATA[Les habitants de {PLANETNAME} ont découvert une faune locale qui, lorsqu'elle est utilisée, augmente fortement leur intelligence.[BR][BR]Cependant, elle crée également une forte dépendance et entraîne un comportement imprudent qui conduit à la criminalité.[BR][BR]Que pensez-vous que nous devrions faire à ce sujet ?]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_UnexpectedFlora_0x41A_Choice1_Name</Label>
@@ -1926,7 +1926,7 @@
     </StringTable>
     <StringTable>
         <Label>Event_ViolentStorms_0x41B_Choice2_Name</Label>
-        <String><![CDATA[J'aimerais vraiment pouvoir t'aider. Mais je n'en ai pas envie.]]></String>
+        <String><![CDATA[J'aimerais vraiment pouvoir vous aider. Mais je n'en ai pas envie.]]></String>
     </StringTable>
     <StringTable>
         <Label>Event_ViolentStorms_0x41B_Choice2_Dec</Label>
