@@ -2,251 +2,247 @@
 <StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   <StringTable>
     <Label>AddSiege_Name</Label>
-    <String>Add Shock Troopers</String>
+    <String>Ajouter les troupes de choc</String>
   </StringTable>
   <StringTable>
     <Label>AddSiege_Dec</Label>
-    <String>Install shock troopers on target ship to assist in conquering worlds.</String>
+    <String>Installez des troupes de choc sur le vaisseau cible pour aider à conquérir des mondes.</String>
   </StringTable>
   <StringTable>
     <Label>PlanetFertilityIncrease_Name</Label>
-    <String>Fertilize Planet</String>
+    <String>Fertiliser la planète</String>
   </StringTable>
   <StringTable>
     <Label>PlanetFertilityIncrease_Dec</Label>
-    <String>Increases fertility of target colony.</String>
+    <String>Augmente la fertilité de la colonie cible.</String>
   </StringTable>
   <StringTable>
     <Label>GiveHope_Name</Label>
-    <String>Give Hope</String>
+    <String>Donner de l'espoir</String>
   </StringTable>
   <StringTable>
     <Label>GiveHope_Dec</Label>
-    <String>Give a series of inspirational speeches to the target core world to incresae their approval.</String>
+    <String>Donnez une série de discours inspirants au monde central cible pour augmenter leur approbation.</String>
   </StringTable>
   <StringTable>
     <Label>Mitosis_Name</Label>
-    <String>Mitosis</String>
+    <String>Mitose</String>
   </StringTable>
   <StringTable>
     <Label>Mitosis_Dec</Label>
-    <String>Splits an Irradiated being into two creating resulting in a new one on target planet.</String>
+    <String>Divise un être irradié en deux, créant ainsi un nouveau sur la planète cible.</String>
   </StringTable>
   <StringTable>
     <Label>Swarm_Name</Label>
-    <String>Swarm</String>
+    <String>Essaim</String>
   </StringTable>
   <StringTable>
     <Label>Swarm_Dec</Label>
-    <String>For six months all members of our species that have the [HS=HS_Consuming]Consuming[/HS] will see their abilities doubled.</String>
+    <String>Pendant six mois, tous les membres de notre espèce qui possèdent le trait [HS=HS_Consuming]Consommateur[/HS] verront leurs capacités doublées.</String>
   </StringTable>
   <StringTable>
     <Label>PlanetVision_Name</Label>
-    <String>Planetary Clairvoyance</String>
+    <String>Clairvoyance planétaire</String>
   </StringTable>
   <StringTable>
     <Label>PlanetVision_Dec</Label>
-    <String>Greatly expand the sensor vision of the target world to see what is remotely near it. Effect begins one month later.</String>
+    <String>Élargit considérablement la vision des capteurs de la planète cible pour voir ce qui est à proximité à distance. L'effet commence un mois plus tard.</String>
   </StringTable>
   <StringTable>
     <Label>DEFAULT_REBEL_CIV_NAME</Label>
-    <String>Rebels</String>
+    <String>Rebelles</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_ZoneOfControlTitle</Label>
-    <String>Zone of Control</String>
+    <String>Zone de contrôle</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_ZoneOfControlDec</Label>
-    <String>The Zone of Control marks where a civilization's Influence extends to and is dominant. The Zone of Control is represented by shading the galaxy, the dominant Civilization's color. Multiple Civilizations may have Influence over a cell, but the Civilization with the highest Influence in the cell will be granted the cell.[BR][BR]Some actions are affected by the Zone of Control. Specific actions like mining asteroids can only be performed on objects within the Zone of Control. Other actions, like building Starbases, that can be performed outside the Zone of Control can not be performed in other Civilizations' Zone of Control.</String>
+    <String>La Zone de Contrôle marque l'extension de l'influence d'une civilisation et est dominante. La Zone de Contrôle est représentée en ombrageant la galaxie avec la couleur de la civilisation dominante. Plusieurs civilisations peuvent avoir de l'influence sur une cellule, mais c'est la civilisation avec la plus grande influence dans la cellule qui obtiendra la cellule.[BR][BR]Certaines actions sont affectées par la Zone de Contrôle. Des actions spécifiques, comme l'extraction d'astéroïdes, ne peuvent être effectuées que sur des objets situés dans la Zone de Contrôle. D'autres actions, comme la construction de bases stellaires, qui peuvent être effectuées en dehors de la Zone de Contrôle, ne peuvent pas être effectuées dans la Zone de Contrôle des autres civilisations.</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_TileTitle</Label>
-    <String>Tile</String>
+    <String>Case</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_TileDec</Label>
-    <String>The game space is divided into hexagonal Tiles. Distance is measured by the number of Tiles between locations. The grid of Tiles can be turned on and off in the Options Menu under Interface. Toggling Show Grid When Close and Show Grid When Far will set whether tiles are visible at certain zoom distances.</String>
+    <String>L'espace de jeu est divisé en cases hexagonales. La distance est mesurée par le nombre de cases entre les emplacements. La grille des cases peut être activée ou désactivée dans le menu Options sous Interface. L'activation ou la désactivation de l'affichage de la grille dépend du niveau de zoom.</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_MonthsTitle</Label>
-    <String>Months</String>
+    <String>Mois</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_MonthsDec</Label>
-    <String>Every game occurs in turns. A Month measures the amount of time between turns. A month passes after every Civilization has taken its turn.</String>
+    <String>Chaque partie se déroule en tours. Un mois mesure la durée entre les tours. Un mois s'écoule après que chaque civilisation ait joué son tour.</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_MovesTitle</Label>
-    <String>[ICON=Moves_Icon] Moves</String>
+    <String>[ICON=Moves_Icon] Mouvements</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_MovesDec</Label>
-    <String>Every Ship and Fleet has a set amount of [ICON=Moves_Icon] Moves. [ICON=Moves_Icon] Moves are the number of [HS=HS_Tile]Tiles[/HS] the Ship or Fleet can traverse in a [HS=HS_Months]Month[/HS].[BR][BR]</String>
+    <String>Chaque vaisseau et flotte dispose d'un nombre défini de [ICON=Moves_Icon] Mouvements. Les [ICON=Moves_Icon] Mouvements correspondent au nombre de [HS=HS_Tile]Cases[/HS] que le vaisseau ou la flotte peut parcourir en un [HS=HS_Months]Mois[/HS].[BR][BR]</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_ShipTitle</Label>
-    <String>Ship</String>
+    <String>Vaisseau</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_ShipDec</Label>
-    <String>A ship is any individual mobile unit.</String>
+    <String>Un vaisseau est une unité mobile individuelle.</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_FleetTitle</Label>
-    <String>Fleet</String>
+    <String>Flotte</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_FleetDec</Label>
-    <String>A Fleet is a group of [HS=HS_Ship]Ships[/HS]. Fleets can be formed by  [HS=HS_ShipMovement]Moving[/HS] [HS=HS_Ship]Ships[/HS] onto the same [HS=HS_Tile]Tile[/HS]. How many [HS=HS_Ship]Ships[/HS] can be in a Fleet is determined by the current [HS=HS_Logistics]Logistics[/HS]. Each [HS=HS_Ship]Ship[/HS] has a [HS=HS_Logistics]Logistics[/HS] value and will add to the current Fleet's [HS=HS_Logistics]Logistics[/HS] score. If a [HS=HS_Ship]Ship[/HS] has a higher [HS=HS_Logistics]Logistics[/HS] score than the Fleet can incorporate, it will be unable to join the Fleet.[BR][BR]Utilizing Fleets is vital to survival. Groups of [HS=HS_Ship]Ships[/HS] do better in combat than individual [HS=HS_Ship]Ships[/HS].</String>
+    <String>Une flotte est un groupe de [HS=HS_Ship]Vaisseaux[/HS]. Les flottes peuvent être formées en [HS=HS_ShipMovement]Déplaçant[/HS] les [HS=HS_Ship]Vaisseaux[/HS] sur la même [HS=HS_Tile]Case[/HS]. Le nombre de [HS=HS_Ship]Vaisseaux[/HS] pouvant être inclus dans une flotte est déterminé par la [HS=HS_Logistics]Logistique[/HS] actuelle. Chaque [HS=HS_Ship]Vaisseau[/HS] a une valeur de [HS=HS_Logistics]Logistique[/HS] et contribuera au score de [HS=HS_Logistics]Logistique[/HS] de la flotte actuelle. Si un [HS=HS_Ship]Vaisseau[/HS] a un score de [HS=HS_Logistics]Logistique[/HS] plus élevé que ce que la flotte peut incorporer, il ne pourra pas rejoindre la flotte.[BR][BR]L'utilisation de flottes est vitale pour la survie. Les groupes de [HS=HS_Ship]Vaisseaux[/HS] se comportent mieux en combat que les [HS=HS_Ship]Vaisseaux[/HS] individuels.</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_ShipMovementTitle</Label>
-    <String>Ship Movement</String>
+    <String>Déplacement des vaisseaux</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_ShipMovementDec</Label>
-    <String>Individual [HS=HS_Ship]Ships[/HS] and [HS=HS_Fleet]Fleets[/HS] can be moved around the galaxy by selecting the [HS=HS_Ship]Ship[/HS] or [HS=HS_Fleet]Fleet[/HS] with the LEFT Mouse Button and then designating a [HS=HS_Tile]Tile[/HS] to move to with the RIGHT Mouse Button.</String>
+    <String>Les [HS=HS_Ship]Vaisseaux[/HS] individuels et les [HS=HS_Fleet]Flottes[/HS] peuvent être déplacés autour de la galaxie en sélectionnant le [HS=HS_Ship]Vaisseau[/HS] ou la [HS=HS_Fleet]Flotte[/HS] avec le bouton gauche de la souris, puis en désignant une [HS=HS_Tile]Case[/HS] à atteindre avec le bouton droit de la souris.</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_PlanetTypeTitle</Label>
-    <String>Planet Type</String>
+    <String>Type de planète</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_PlanetTypeDec</Label>
-    <String>Planet Type is the classification of a planet's biome and general environment. Different Planet Types often have different terrains in different amounts, determining what resources the planet can provide.</String>
+    <String>Le type de planète est la classification de la biomécanique et de l'environnement général d'une planète. Les différents types de planètes ont souvent différents terrains en différentes quantités, ce qui détermine les ressources que la planète peut fournir.</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_PlanetClassTitle</Label>
-    <String>Planet Class</String>
+    <String>Classe de planète</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_PlanetClassDec</Label>
-    <String>Planet Class is a measurement of the habitable space of a planet. Any planet with a Planet Class of 1 or greater can be [HS=HS_Colinizing]Colonized[/HS]. The higher the Planet Class, the more space there is for development. Planets with a higher Planet Class generally provide more resources than planets of a lower Planet Class of the identical [HS=HS_PlanetType]Planet Type[/HS].[BR][BR]Planets with a Planet Class of 0 are considered a [HS=HS_DeadWorld]Dead World[/HS] and can not be colonized.</String>
+    <String>La classe de planète est une mesure de l'espace habitable d'une planète. Toute planète ayant une classe de planète de 1 ou plus peut être [HS=HS_Colinizing]Colonisée[/HS]. Plus la classe de planète est élevée, plus il y a d'espace pour le développement. Les planètes ayant une classe de planète plus élevée fournissent généralement plus de ressources que les planètes de la même [HS=HS_PlanetType]Type de planète[/HS].[BR][BR]Les planètes ayant une classe de planète de 0 sont considérées comme des [HS=HS_DeadWorld]Mondes morts[/HS] et ne peuvent pas être colonisées.</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_DeadWorldTitle</Label>
-    <String>Dead World</String>
+    <String>Monde mort</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_DeadWorldDec</Label>
-    <String>A Dead World is any planet with a [HS=HS_PlanetClass]Planet Class[/HS] of 0. Dead Worlds can not be colonized.</String>
+    <String>Un monde mort est toute planète ayant une [HS=HS_PlanetClass]Classe de planète[/HS] de 0. Les mondes morts ne peuvent pas être colonisés.</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_ColinizingTitle</Label>
-    <String>Colonizing</String>
+    <String>Colonisation</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_ColinizingDec</Label>
-    <String>Colonizing new worlds is essential to expand a Civilization's [HS=HS_ZoneOfControl]Zone of Control[/HS] and gaining access to more resources. Planets can only be [HS=HS_ColonizeOrder]Colonized[/HS] if there is no claim to the planet. Once a Planet is Colonized, it is claimed by the Colonizing Civilization. [BR][BR]A Planet must have a [HS=HS_PlanetClass]Planet Class[/HS] 1 or greater to be Colonized. Planets with a Planet Class of 0 are considered a [HS=HS_DeadWorld]Dead World[/HS] and can not be colonized.</String>
+    <String>Coloniser de nouvelles planètes est essentiel pour étendre la [HS=HS_ZoneOfControl]Zone de Contrôle[/HS] d'une civilisation et avoir accès à plus de ressources. Les planètes ne peuvent être [HS=HS_ColonizeOrder]Colonisées[/HS] que s'il n'y a aucune revendication sur la planète. Une fois qu'une planète est colonisée, elle est revendiquée par la civilisation colonisatrice. [BR][BR]Une planète doit avoir une [HS=HS_PlanetClass]Classe de planète[/HS] de 1 ou plus pour être colonisée. Les planètes ayant une classe de planète de 0 sont considérées comme des [HS=HS_DeadWorld]Mondes morts[/HS] et ne peuvent pas être colonisées.</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_ColonizeOrderTitle</Label>
-    <String>Colonize Order</String>
+    <String>Ordre de colonisation</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_ColonizeOrderDec</Label>
-    <String>Colony Ships can be used to [HS=HS_Colinizing]Colonize[/HS] new worlds. To [HS=HS_Colinizing]Colonize[/HS] a planet, first, select the [HS=HS_Ship]Ship[/HS] with the LEFT Mouse Button. With the appropriate [HS=HS_Ship]Ship[/HS] selected, order the [HS=HS_Ship]Ship[/HS] to [HS=HS_ShipMovement]Move[/HS] to a planet with a [HS=HS_PlanetClass]Planet Class[/HS] of 1 or greater with the RIGHT Mouse Button. It may take several [HS=HS_Months]Months[/HS], but once the Colony Ship reaches the planet, it will colonize it tktkif abletktk.</String>
+    <String>Les vaisseaux coloniaux peuvent être utilisés pour [HS=HS_Colinizing]Coloniser[/HS] de nouvelles planètes. Pour [HS=HS_Colinizing]Coloniser[/HS] une planète, commencez par sélectionner le [HS=HS_Ship]Vaisseau[/HS] avec le bouton gauche de la souris. Une fois le [HS=HS_Ship]Vaisseau[/HS] approprié sélectionné, ordonnez au [HS=HS_Ship]Vaisseau[/HS] de [HS=HS_ShipMovement]Se déplacer[/HS] vers une planète ayant une [HS=HS_PlanetClass]Classe de planète[/HS] de 1 ou plus avec le bouton droit de la souris. Cela peut prendre plusieurs [HS=HS_Months]Mois[/HS], mais une fois que le vaisseau colonial atteint la planète, il la colonisera.</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_SurveyOrderTitle</Label>
-    <String>Survey Order</String>
+    <String>Ordre de sondage</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_SurveyOrderDec</Label>
-    <String>The galaxy is often filled with [HS=HS_Anomaly]Anomalies[/HS] that can be Surveyed by a [HS=HS_SurveyShip]Survey Ship[/HS]. To order a [HS=HS_Ship]Ship[/HS] to Survey an [HS=HS_Anomaly]Anomaly[/HS], begin by selecting the [HS=HS_SurveyShip]Survey Ship[/HS] with the LEFT Mouse Button. Then order the [HS=HS_Ship]Ship[/HS] to [HS=HS_ShipMovement]Move[/HS] to the [HS=HS_Anomaly]Anomaly[/HS] location. Once the [HS=HS_Ship]Ship[/HS] arrives at its destination, it will begin to Survey the [HS=HS_Anomaly]Anomaly[/HS]. Surveying takes several [HS=HS_Months]Months[/HS].[BR][BR]A ship that is moved, attacked, or otherwise interrupted will lose all progress, and the Survey will need to start from the start.</String>
+    <String>La galaxie est souvent remplie d'[HS=HS_Anomaly]Anomalies[/HS] qui peuvent être sondées par un [HS=HS_SurveyShip]Navire de sondage[/HS]. Pour donner l'ordre à un [HS=HS_Ship]Vaisseau[/HS] de sonder une [HS=HS_Anomaly]Anomalie[/HS], commencez par sélectionner le [HS=HS_SurveyShip]Navire de sondage[/HS] avec le bouton gauche de la souris. Ensuite, ordonnez au [HS=HS_Ship]Vaisseau[/HS] de [HS=HS_ShipMovement]Se déplacer[/HS] vers l'emplacement de l'[HS=HS_Anomaly]Anomalie[/HS]. Une fois que le [HS=HS_Ship]Vaisseau[/HS] atteint sa destination, il commencera à sonder l'[HS=HS_Anomaly]Anomalie[/HS]. Le sondage prend plusieurs [HS=HS_Months]Mois[/HS].[BR][BR]Un vaisseau qui est déplacé, attaqué ou autrement interrompu perdra tout son progress et le sondage devra recommencer depuis le début.</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_AttackOrderTitle</Label>
-    <String>Attack Order</String>
+    <String>Ordre d'attaque</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_AttackOrderDec</Label>
-    <String>There are many threats in the galaxy, and often offensive actions must be taken. [HS=HS_Ship]Ships[/HS] and [HS=HS_Fleet]Fleets[/HS] that have weapons can Attack other entities. To order an Attack, select the [HS=HS_Ship]Ship[/HS] or [HS=HS_Fleet]Fleet[/HS] with the LEFT Mouse Button. Then order the [HS=HS_Ship]Ship[/HS] or [HS=HS_Fleet]Fleet[/HS] to [HS=HS_ShipMovement]Move[/HS] to the target's location with the RIGHT Mouse Button. Once the destination is reached, combat will begin.</String>
+    <String>Il y a de nombreuses menaces dans la galaxie, et souvent des actions offensives doivent être entreprises. Les [HS=HS_Ship]Vaisseaux[/HS] et les [HS=HS_Fleet]Flottes[/HS] dotés d'armes peuvent attaquer d'autres entités. Pour donner l'ordre d'attaquer, sélectionnez le [HS=HS_Ship]Vaisseau[/HS] ou la [HS=HS_Fleet]Flotte[/HS] avec le bouton gauche de la souris. Ensuite, ordonnez au [HS=HS_Ship]Vaisseau[/HS] ou à la [HS=HS_Fleet]Flotte[/HS] de [HS=HS_ShipMovement]Se déplacer[/HS] vers l'emplacement de la cible avec le bouton droit de la souris. Une fois que la destination est atteinte, le combat commencera.</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_AutoExploreTitle</Label>
-    <String>[ICON=AutoExplore_Icon] Auto-Explore</String>
+    <String>[ICON=AutoExplore_Icon] Exploration automatique</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_AutoExploreDec</Label>
-    <String>[ICON=AutoExplore_Icon] Auto-Explore is an option that will set [HS=HS_Ship]Ships[/HS] to move without direct orders. [HS=HS_Ship]Ships[/HS] in [ICON=AutoExplore_Icon] Auto-Explore will move to destinations that are currently unknown and uncharted.[BR][BR]If the entire galaxy is explored and there are no uncharted [HS=HS_Tile]Tiles[/HS], the [ICON=AutoExplore_Icon] Auto-Explore option will become unavailable.</String>
+    <String>[ICON=AutoExplore_Icon] L'exploration automatique est une option qui permettra aux [HS=HS_Ship]Vaisseaux[/HS] de se déplacer sans ordres directs. Les [HS=HS_Ship]Vaisseaux[/HS] en [ICON=AutoExplore_Icon] Exploration automatique se déplaceront vers des destinations actuellement inconnues et non cartographiées.[BR][BR]Si toute la galaxie est explorée et qu'il n'y a aucune [HS=HS_Tile]Case[/HS] inexplorée, l'option [ICON=AutoExplore_Icon] Exploration automatique deviendra indisponible.</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_AutoSurveyTitle</Label>
-    <String>[ICON=AutoSurvey_Icon] Auto-Survey</String>
+    <String>[ICON=AutoSurvey_Icon] Sondage automatique</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_AutoSurveyDec</Label>
-    <String>[ICON=AutoSurvey_Icon] Auto-Survey is only available to [HS=HS_Ship]Ships[/HS] with Survey Modules. A [HS=HS_Ship]Ship[/HS] in [ICON=AutoSurvey_Icon] Auto-Survey mode will move without direct orders, trying to locate [HS=HS_Anomaly]Anomalies[/HS]. When a [HS=HS_Ship]Ship[/HS] in [ICON=AutoSurvey_Icon] Auto-Survey mode is near an [HS=HS_Anomaly ]Anomaly[/HS], it will [HS=HS_SurveyOrder]Survey[/HS] the [HS=HS_Anomaly ]Anomaly[/HS] without direct orders.</String>
+    <String>[ICON=AutoSurvey_Icon] Le sondage automatique est uniquement disponible pour les [HS=HS_Ship]Vaisseaux[/HS] équipés de modules de sondage. Un [HS=HS_Ship]Vaisseau[/HS] en mode [ICON=AutoSurvey_Icon] Sondage automatique se déplacera sans ordres directs pour tenter de localiser des [HS=HS_Anomaly]Anomalies[/HS]. Lorsqu'un [HS=HS_Ship]Vaisseau[/HS] en mode [ICON=AutoSurvey_Icon] Sondage automatique est près d'une [HS=HS_Anomaly]Anomalie[/HS], il effectuera un [HS=HS_SurveyOrder]Sondage[/HS] de l'[HS=HS_Anomaly]Anomalie[/HS] sans ordres directs.</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_AutoColonizeTitle</Label>
-    <String>[ICON=AutoColonize_Icon] Auto-Colonize</String>
+    <String>[ICON=AutoColonize_Icon] Colonisation automatique</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_AutoColonizeDec</Label>
-    <String>[ICON=AutoColonize_Icon] Auto-Colonize is only available to ships that can [HS=HS_Colinizing]Colonize[/HS] a planet. A [HS=HS_Ship]Ship[/HS] in [ICON=AutoColonize_Icon] Auto-Colonize mode will move without direct orders, trying to locate planets with a [HS=HS_PlanetClass]Planet Class[/HS] of 1 or greater. When a planet is found, the [HS=HS_Ship]Ship[/HS] will [HS=HS_Colinizing]Colonize[/HS] the planet without direct orders.</String>
+    <String>[ICON=AutoColonize_Icon] La colonisation automatique n'est disponible que pour les vaisseaux capables de [HS=HS_Colinizing]Coloniser[/HS] une planète. Un [HS=HS_Ship]Vaisseau[/HS] en mode [ICON=AutoColonize_Icon] Colonisation automatique se déplacera sans ordres directs pour tenter de localiser des planètes ayant une [HS=HS_PlanetClass]Classe de planète[/HS] de 1 ou plus. Lorsqu'une planète est trouvée, le [HS=HS_Ship]Vaisseau[/HS] effectuera [HS=HS_Colinizing]Coloniser[/HS] la planète sans ordres directs.</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_AutoMineTitle</Label>
-    <String>[ICON=AutoMine_Icon] Auto-Mine</String>
+    <String>[ICON=AutoMine_Icon] Minage automatique</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_AutoMineDec</Label>
-    <String>[ICON=AutoMine_Icon] Auto-Mine is an option for Asteroid Mining ships. A [HS=HS_Ship]Ship[/HS]  in [ICON=AutoMine_Icon] Auto-Mine will move without direct orders to try and find Asteroids within the [HS=HS_ZoneOfControl]Zone of Control[/HS] to mine.</String>
+    <String>[ICON=AutoMine_Icon] Le minage automatique est une option pour les vaisseaux miniers d'astéroïdes. Un [HS=HS_Ship]Vaisseau[/HS] en mode [ICON=AutoMine_Icon] Minage automatique se déplacera sans ordres directs pour tenter de trouver des astéroïdes situés dans la [HS=HS_ZoneOfControl]Zone de Contrôle[/HS] à exploiter.</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_SectorTitle</Label>
-    <String>Sector</String>
+    <String>Secteur</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_SectorDec</Label>
-    <String>A Sector is an area of the Galaxy where Stars Systems are grouped together and can be traversed without specialized [HS=HS_Tech]Tech[/HS].</String>
+    <String>Un secteur est une zone de la galaxie où les systèmes stellaires sont regroupés et peuvent être traversés sans [HS=HS_Tech]Technologie[/HS] spécialisée.</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_LeaderMenuTitle</Label>
-    <String>[ICON=Menu_Leader_Icon] Leaders Menu</String>
+    <String>Menu des [ICON=Menu_Leader_Icon] Leaders</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_LeaderMenuDec</Label>
-    <String>The [ICON=Menu_Leader_Icon] Leaders Menu is where [HS=HS_Leaders]Leaders[/HS] can be recruited and managed. Under the [ICON=Menu_Leader_Icon] Leaders Menu, there are screens for [HS=HS_RecruitmentScreen]Recruitment[/HS], [HS=HS_MinistersScreen]Ministers[/HS], [HS=HS_GovernorsScreen]Governors[/HS], [HS=HS_DiplomatsScreen]Diplomats[/HS], [HS=HS_CommandersScreen]Commanders[/HS], and [HS=HS_FactionsScreen]Factions[/HS].[BR][BR]Access the [ICON=Menu_Leader_Icon] Leaders Menu by selecting the icon on the Radial Menu with the LEFT Mouse Button.</String>
+    <String>Le [ICON=Menu_Leader_Icon] Menu des [HS=HS_Leaders]Leaders[/HS] est l'endroit où les [HS=HS_Leaders]Leaders[/HS] peuvent être recrutés et gérés. Sous le [ICON=Menu_Leader_Icon] Menu des [HS=HS_Leaders]Leaders[/HS], il y a des écrans pour le [HS=HS_RecruitmentScreen]Recrutement[/HS], les [HS=HS_MinistersScreen]Ministres[/HS], les [HS=HS_AdvisorsScreen]Conseillers[/HS] et les [HS=HS_LeaderLogScreen]Journaux de bord des leaders[/HS].[BR][BR]Les [HS=HS_Leaders]Leaders[/HS] ont des [HS=HS_Traits]Traits[/HS] spécifiques qui influencent leurs performances et leurs coûts. Le recrutement de leaders est essentiel pour le bon fonctionnement de la civilisation.</String>
   </StringTable>
   <StringTable>
-    <Label>Hotspot_RecruitmentScreenTitle</Label>
-    <String>Recruitment Screen</String>
+    <Label>Hotspot_LeaderRecruitmentTitle</Label>
+    <String>[ICON=RecruitmentScreen_Icon] Recrutement</String>
   </StringTable>
   <StringTable>
-    <Label>Hotspot_RecruitmentScreenDec</Label>
-    <String>The Recruitment Screen can be accessed through the [ICON=Menu_Leader_Icon] [HS=HS_LeaderMenu]Leaders Menu[/HS]. Potential [HS=HS_Leaders]Leaders[/HS] will appear under the Recruitment Screen, where they can be assessed and hired. </String>
+    <Label>Hotspot_LeaderRecruitmentDec</Label>
+    <String>[ICON=RecruitmentScreen_Icon] Le [HS=HS_RecruitmentScreen]Recrutement[/HS] est l'écran principal pour recruter de nouveaux [HS=HS_Leaders]Leaders[/HS]. Sur cet écran, vous pouvez voir la liste des [HS=HS_Leaders]Leaders[/HS] disponibles, leurs coûts de recrutement et les [HS=HS_Traits]Traits[/HS] spécifiques de chaque leader. Pour recruter un leader, cliquez sur son portrait, puis suivez les étapes pour confirmer le recrutement. Une fois qu'un leader est recruté, il sera disponible pour être assigné à des rôles spécifiques dans la civilisation.</String>
   </StringTable>
   <StringTable>
-    <Label>Hotspot_MinistersScreenTitle</Label>
-    <String>Ministers Screen</String>
+    <Label>Hotspot_LeaderMinistersTitle</Label>
+    <String>[ICON=MinistersScreen_Icon] Ministres</String>
   </StringTable>
   <StringTable>
-    <Label>Hotspot_MinistersScreenDec</Label>
-    <String>The Ministers Screen can be accessed through the [ICON=Menu_Leader_Icon] [HS=HS_LeaderMenu]Leaders Menu[/HS]. Minister Offices provide specific benefits to the whole Civilization based on the stats of the installed [HS=HS_Leaders]Leaders[/HS]. Minister Offices without a [HS=HS_Leaders]Leader[/HS] assigned provide no benefits. Hovering the Mouse over an office will provide specific information about the office and its benefits.[BR][BR][HS=HS_Leaders]Leaders[/HS] can be assigned, unassigned, and reassigned at any point during your turn.</String>
+    <Label>Hotspot_LeaderMinistersDec</Label>
+    <String>[ICON=MinistersScreen_Icon] Les [HS=HS_MinistersScreen]Ministres[/HS] sont des leaders qui occupent des postes de haut niveau dans la civilisation et influencent différents aspects du jeu. Sur cet écran, vous pouvez voir la liste des [HS=HS_Ministers]Ministres[/HS] actuellement en poste, ainsi que leurs [HS=HS_Traits]Traits[/HS] et les domaines sur lesquels ils ont une incidence. Vous pouvez également choisir de renouveler ou de remplacer un [HS=HS_Ministers]Ministre[/HS] si nécessaire.[BR][BR]Les [HS=HS_Ministers]Ministres[/HS] sont importants pour la gestion de la civilisation, car ils peuvent avoir un impact significatif sur la production, la recherche, la défense et d'autres aspects de la civilisation.</String>
   </StringTable>
   <StringTable>
-    <Label>Hotspot_GovernorsScreenTitle</Label>
-    <String>Governors Screen</String>
+    <Label>Hotspot_LeaderAdvisorsTitle</Label>
+    <String>[ICON=AdvisorsScreen_Icon] Conseillers</String>
   </StringTable>
   <StringTable>
-    <Label>Hotspot_GovernorsScreenDec</Label>
-    <String>The Governors Screen can be accessed through the [ICON=Menu_Leader_Icon] [HS=HS_LeaderMenu]Leaders Menu[/HS]. The Governors Screen briefly overviews every colonized planet with a [HS=HS_PlanetClass]Planet Class[/HS] of 10 or greater. If there is a [HS=HS_Leaders]Leader[/HS] assigned to the planet, the planet is a [HS=HS_CoreWorld]Core World[/HS].[BR][BR][HS=HS_Leaders]Leaders[/HS] can be assigned, unassigned, and reassigned at any point during your turn.</String>
+    <Label>Hotspot_LeaderAdvisorsDec</Label>
+    <String>[ICON=AdvisorsScreen_Icon] Les [HS=HS_AdvisorsScreen]Conseillers[/HS] sont des leaders qui fournissent des conseils et des bonus spécifiques dans divers domaines du jeu. Sur cet écran, vous pouvez voir la liste des [HS=HS_Advisors]Conseillers[/HS] actuellement en poste, ainsi que leurs [HS=HS_Traits]Traits[/HS] et les domaines sur lesquels ils offrent des conseils. Les [HS=HS_Advisors]Conseillers[/HS] peuvent être utiles pour orienter la stratégie de la civilisation dans différentes directions en fonction de leurs compétences.[BR][BR]Vous pouvez également choisir de renouveler ou de remplacer un [HS=HS_Advisors]Conseiller[/HS] si nécessaire.</String>
   </StringTable>
   <StringTable>
-    <Label>Hotspot_DiplomatsScreenTitle</Label>
-    <String>Diplomats Screen</String>
+    <Label>Hotspot_LeaderLogsTitle</Label>
+    <String>[ICON=LeaderLogScreen_Icon] Journaux de bord des leaders</String>
   </StringTable>
   <StringTable>
-    <Label>Hotspot_DiplomatsScreenDec</Label>
-    <String>The Diplomats Screen can be accessed through the [ICON=Menu_Leader_Icon] [HS=HS_LeaderMenu]Leaders Menu[/HS]. The Diplomat Screen briefly overviews our relationship with all other known Civilizations. [HS=HS_Leaders]Leader[/HS] can be assigned as [HS=HS_Diplomat]Diplomats[/HS] to affect your relationship with other Civilizations.[BR][BR][HS=HS_Leaders]Leaders[/HS] can be assigned, unassigned, and reassigned at any point during your turn.</String>
-  </StringTable>
-  <StringTable>
-    <Label>Hotspot_CommandersScreenTitle</Label>
-    <String>Commanders Screen</String>
+    <Label>Hotspot_LeaderLogsDec</Label>
+    <String>[ICON=LeaderLogScreen_Icon] Les [HS=HS_LeaderLogScreen]Journaux de bord des leaders[/HS] sont des archives des actions et des événements impliquant les [HS=HS_Leaders]Leaders[/HS] de la civilisation. Vous pouvez consulter les journaux de bord pour voir les décisions prises par les [HS=HS_Leaders]Leaders[/HS], les résultats de ces décisions et les répercussions sur la civilisation. Cela peut vous aider à comprendre les performances de vos [HS=HS_Leaders]Leaders[/HS] et à prendre des décisions éclairées sur leur gestion et leur affectation.</String>
   </StringTable>
   <StringTable>
     <Label>Hotspot_CommandersScreenDec</Label>
